@@ -1,0 +1,92 @@
+body {
+    background-color: rgb(189, 189, 189);
+}
+
+.navbar {
+    background-color: white;
+    padding: 0px 0px 0px 3%;
+}
+
+#navbarNavDropdown {
+    padding: 0px 3% 0px 0px;
+}
+
+.container-fluid {
+    margin: 45px;
+    height: 70px;
+}
+
+.navbar-header {
+    background-color: darkcyan;
+    position: fixed;
+    padding: 0%;
+}
+
+.navbar-brand {
+    display: inline;
+    background-color: darkcyan ;
+    padding: 1%;
+    margin: 0em;
+}
+
+.nav-color {
+    color: white;
+}
+
+.navbar-left {
+    position: relative;
+    text-align: left;
+    display: inline;
+}
+
+a {
+    color: grey;
+}
+
+.img-with-text {
+    max-width: 250px;
+    max-height: 250px;
+    display: inline;
+}
+
+.lg-card {
+    padding: 30px;
+}
+
+.header-text {
+    padding: 17px;
+}
+
+.sm-card {
+    padding:30px;
+}
+
+p {
+    display: inline;
+    flex-wrap: wrap;
+    color: grey;
+}
+
+h1, h3, h6 {
+    color: darkcyan;
+}
+
+
+.images {
+    display: inline-flexbox;
+    position: relative;
+}
+
+.grid-img {
+    max-width: 200px;
+    max-height: 200px;
+    display: inline-block;
+}
+
+.footertext {
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+}
