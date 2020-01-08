@@ -90,3 +90,14 @@ h1, h3, h6 {
 .footer {
     background-color: black;
 }
+
+.white-background {
+    background-color: white;
+    padding: 20px;
+    justify-content: center;
+}
+
+.active {
+    border: 3px;
+    border-color: darkcyan;
+}
